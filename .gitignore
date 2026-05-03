@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+data/vibemaster.db
+*.egg-info/
+dist/
+.pytest_cache/
+.ruff_cache/
+*.log
